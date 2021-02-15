@@ -1,0 +1,25 @@
+.red {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: red;
+    border: 10px solid white;
+    box-sizing: border-box;
+}
+
+.blue {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: blue;
+    border: 10px solid white;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
